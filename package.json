@@ -107,7 +107,7 @@
     "ngx-skeleton-loader": "6.0.0",
     "ngx-timeago": "3.0.0",
     "nodemailer": "6.9.4",
-    "nx-cloud": "16.4.0",
+    "nx-cloud": "18.0.1",
     "object-sizeof": "2.6.3",
     "openai": "3.3.0",
     "papaparse": "5.4.1",
